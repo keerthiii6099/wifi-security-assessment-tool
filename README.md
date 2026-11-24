@@ -2,10 +2,9 @@
 
 A Python-based WiFi Security Assessment Tool developed to evaluate wireless network security using a Streamlit dashboard.
 
-## Project Overview
+## Dashboard Preview
 
-This project provides a dashboard for assessing WiFi network security. It uses simulated wireless network data to demonstrate encryption assessment, visualisation and security recommendations.
-
+![WiFi Security Assessment Dashboard](dashboard.png)
 ## Key Features
 
 - Simulated WiFi network data generation
